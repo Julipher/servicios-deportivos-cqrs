@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\command\controller\ReservaCommandController.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\command\service\ReservaCommandService.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\command\dto\PagarReservaCommand.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\CqrsApplication.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\command\dto\CrearReservaCommand.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\query\controller\ReservaQueryController.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\query\repository\ReservaQueryRepository.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\query\service\ReservaQueryService.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\query\dto\ReservaDto.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\shared\events\ReservaPagadaEvent.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\command\entity\Reserva.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\shared\events\ReservaCreatedEvent.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\command\repository\ReservaRepository.java
+C:\Users\julia\Desktop\servicios-deportivos-cqrs\src\main\java\com\deportes\query\model\ReservaQueryModel.java

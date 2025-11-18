@@ -1,0 +1,15 @@
+com\deportes\command\service\ReservaCommandService.class
+com\deportes\query\service\ReservaQueryService.class
+com\deportes\CqrsApplication.class
+com\deportes\query\dto\ReservaDto.class
+com\deportes\query\repository\ReservaQueryRepository.class
+com\deportes\shared\events\ReservaCreatedEvent.class
+com\deportes\command\repository\ReservaRepository.class
+com\deportes\query\model\ReservaQueryModel.class
+com\deportes\command\entity\Reserva$EstadoReserva.class
+com\deportes\command\entity\Reserva.class
+com\deportes\command\controller\ReservaCommandController.class
+com\deportes\command\dto\CrearReservaCommand.class
+com\deportes\shared\events\ReservaPagadaEvent.class
+com\deportes\command\dto\PagarReservaCommand.class
+com\deportes\query\controller\ReservaQueryController.class
